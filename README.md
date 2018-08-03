@@ -1,5 +1,5 @@
 # ScriptersCF Gamejam
-**Hello!** and Welcome to the **ScriptersCF gamejam!**
+Hello and Welcome to the **ScriptersCF gamejam!**
 
 ## Prize
 - **15,000 ROBUX**
