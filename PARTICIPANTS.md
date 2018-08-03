@@ -8,7 +8,7 @@ Following is a list of participants in the **August 2nd** ScriptersCF Gamejam:
 - **IDK** (@Friz#8136, @Harry#7307)
 - **ArtisticDevelopers** (@xDestino#4509, @Time#2388)
 - **Team 7** (Oryxide#6972)
-- **TranscendantSC** (@sc#7508, @xavier00hh#8942, @Eqic#0444)
+- **TranscendentSC** (@sc#7508, @xavier00hh#8942, @Eqic#0444)
 - **Lonely** (@D15c4rd#7140)
   
 ## Solo
