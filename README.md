@@ -19,11 +19,12 @@
 ## Rules
 - All scripts **MUST** be created by you within the allotted time
 - Only members of your group are allowed to contribute to your project
+- Roblox is strongly encouraged, but you are allowed to use any engine
 - You may:
 	- Use any image assets and decals 
 	- Use any audio assets
 	- Use any mesh assets
-	- Use any model assets
+	- Use any model assets (yes, free models **ARE* allowed!)
 
 # FAQ
 
