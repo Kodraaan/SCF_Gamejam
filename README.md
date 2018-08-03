@@ -10,7 +10,7 @@
 ## Information
 - This is a **48-hour gamejam**. 
 - Event starts: **8:00 AM Eastern Standard Time** on **Saturday, August 4th**
-- Event ends: **8:00 AM Eastern Standard Time** on **Monday, August 4th**
+- Event ends: **8:00 AM Eastern Standard Time** on **Monday, August 6th**
 - You may work alone or in teams of up to **4**
 - The theme will be announced at the start of the gamejam
 - All entries will be judged by our panel of judges at the end of the gamejam
