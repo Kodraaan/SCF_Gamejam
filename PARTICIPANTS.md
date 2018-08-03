@@ -11,6 +11,7 @@ Following is a list of participants in the **August 2nd** ScriptersCF Gamejam:
 - **Transcendent** (@Eqic#0444, @ZCOLINZ#3604, Jacjac8#7550)
 - **Lonely** (@D15c4rd#7140)
 - **Solo Pollo** (@nacereal#7088)
+- **Noonjo** (@Fanjo#3238, @R4GG3#4435)
   
 ## Solo
 - @Catrina#9382
