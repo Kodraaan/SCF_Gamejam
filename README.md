@@ -2,9 +2,10 @@
 Hello and Welcome to the **ScriptersCF gamejam!**
 
 ## Prize
-- **15,000 ROBUX**
+- **19,000 ROBUX**
 	- (4,000 ROBUX) ScriptersCF
-	- (11,000 ROBUX) Kodran
+	- (11,000 ROBUX) @Kodran2189
+	- (4,000 ROBUX) @amanda#0001
 - If you'd like to add to the prize pool DM me (@Kodran#2189)
 
 ## Information
