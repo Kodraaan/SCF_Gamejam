@@ -24,7 +24,7 @@
 	- Use any image assets and decals 
 	- Use any audio assets
 	- Use any mesh assets
-	- Use any model assets (yes, free models **ARE* allowed!)
+	- Use any model assets (yes, free models **ARE** allowed!)
 
 # FAQ
 
