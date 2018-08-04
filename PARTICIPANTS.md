@@ -14,7 +14,7 @@ Following is a list of participants in the **August 2nd** ScriptersCF Gamejam:
 - **Noonjo** (@Fanjo#3238, @R4GG3#4435)
 - **@everyone** (SingleSided#5858, xavier00hh#8942, FireExodus#0549, InedibleGames#8195)
   
-  
+
 ## Solo
 - @Catrina#9382
 - @ViciousSilence#9877
@@ -26,3 +26,5 @@ Following is a list of participants in the **August 2nd** ScriptersCF Gamejam:
 - @Boy#6551
 - @amanda#0001
 - @Goulstem#1587
+- @crayzk#5617
+- @Judo Flip#3123
