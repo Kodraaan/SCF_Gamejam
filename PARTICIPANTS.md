@@ -13,11 +13,13 @@ Following is a list of participants in the **August 2nd** ScriptersCF Gamejam:
 - **Solo Pollo** (@nacereal#7088)
 - **Noonjo** (@Fanjo#3238, @R4GG3#4435)
 - **@everyone** (@SingleSided#5858, @xavier00hh#8942, @FireExodus#0549, @InedibleGames#8195)
-- **Fam squad** (@Firecow#0234, @YouFoundSeal#4777, @SimplyRekt#0021)
+- **Fam squad** (@Firecow#0234, @YouFoundSeal#4777)
 - **Kermit's America** (@Pandaa#6805, @Zeth#4868)
 - **Trellow** (@TreBomb#7757, @DeveloperLuke9593)
 - **crayziestQ** (@crayzk#5617, @Quinn#0530)
+- **/e tpose** (@Dr.Karma™#8747, @Golubian#4112, @meam#0767)
   
+
 
 ## Solo
 - @Catrina#9382
@@ -41,7 +43,7 @@ Following is a list of participants in the **August 2nd** ScriptersCF Gamejam:
 - @NickTimesTwo#1259
 - @Trey#3513
 - @Memeologist#5375
-- @Golubian#4112
 - @TrueTae#5099
 - @Plain English#0001
 - @sc#7508
+- @SimplyRekt#0021
