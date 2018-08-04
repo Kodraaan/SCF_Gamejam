@@ -4,17 +4,19 @@ Following is a list of participants in the **August 2nd** ScriptersCF Gamejam:
 
 ## Teams
 - **Tri Studios** (@Owen1366, @Halas#8296)
-- **GAY** (@sc#7508, @foreboded#1049, @Martini#0001, @-;Sin#1645)
+- **GAY** (@foreboded#1049, @Martini#0001, @-;Sin#1645)
 - **IDK** (@Friz#8136, @Harry#7307)
 - **ArtisticDevelopers** (@xDestino#4509, @Time#2388)
 - **Team 7** (@Oryxide#6972, @NullLogic#8942)
-- **Transcendent** (@Eqic#0444, @ZCOLINZ#3604, Jacjac8#7550)
+- **Transcendent** (@Eqic#0444, @ZCOLINZ#3604, @Jacjac8#7550)
 - **Lonely** (@D15c4rd#7140)
 - **Solo Pollo** (@nacereal#7088)
 - **Noonjo** (@Fanjo#3238, @R4GG3#4435)
-- **@everyone** (SingleSided#5858, xavier00hh#8942, FireExodus#0549, InedibleGames#8195)
-- **Fam squad** (@Firecow#0234, @YouFoundSeal#4777, @SimplyRekt#0021, @JackS#6638)
+- **@everyone** (@SingleSided#5858, @xavier00hh#8942, @FireExodus#0549, @InedibleGames#8195)
+- **Fam squad** (@Firecow#0234, @YouFoundSeal#4777, @SimplyRekt#0021)
 - **Kermit's America** (@Pandaa#6805, @Zeth#4868)
+- **Trellow** (@TreBomb#7757, @DeveloperLuke9593)
+- **crayzQ** (@crayzk#5617, @Quinn#0530)
   
 
 ## Solo
@@ -28,7 +30,6 @@ Following is a list of participants in the **August 2nd** ScriptersCF Gamejam:
 - @Boy#6551
 - @amanda#0001
 - @Goulstem#1587
-- @crayzk#5617
 - @Judo Flip#3123
 - @Sendice#7978
 - @Moob#8010
@@ -40,4 +41,7 @@ Following is a list of participants in the **August 2nd** ScriptersCF Gamejam:
 - @NickTimesTwo#1259
 - @Trey#3513
 - @Memeologist#5375
-- @TreBomb#7757
+- @Golubian#4112
+- @TrueTae#5099
+- @Plain English#0001
+- @sc#7508
