@@ -39,3 +39,4 @@ Following is a list of participants in the **August 2nd** ScriptersCF Gamejam:
 - @HexagonCode#8915
 - @NickTimesTwo#1259
 - @Trey#3513
+- @Memeologist#5375
