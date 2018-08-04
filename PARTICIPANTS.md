@@ -33,3 +33,4 @@ Following is a list of participants in the **August 2nd** ScriptersCF Gamejam:
 - @Sendice#7978
 - @Moob#8010
 - @rithvik11_master#6051
+- @waifuszn#6052
