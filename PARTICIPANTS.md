@@ -16,7 +16,7 @@ Following is a list of participants in the **August 2nd** ScriptersCF Gamejam:
 - **Fam squad** (@Firecow#0234, @YouFoundSeal#4777, @SimplyRekt#0021)
 - **Kermit's America** (@Pandaa#6805, @Zeth#4868)
 - **Trellow** (@TreBomb#7757, @DeveloperLuke9593)
-- **crayzQ** (@crayzk#5617, @Quinn#0530)
+- **crayziestQ** (@crayzk#5617, @Quinn#0530)
   
 
 ## Solo
