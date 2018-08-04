@@ -14,6 +14,7 @@ Following is a list of participants in the **August 2nd** ScriptersCF Gamejam:
 - **Noonjo** (@Fanjo#3238, @R4GG3#4435)
 - **@everyone** (SingleSided#5858, xavier00hh#8942, FireExodus#0549, InedibleGames#8195)
 - **Fam squad** (@Firecow#0234, @YouFoundSeal#4777, @SimplyRekt#0021, @JackS#6638)
+- **Kermit's America** (@Pandaa#6805, @Zeth#4868)
   
 
 ## Solo
