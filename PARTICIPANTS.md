@@ -13,6 +13,7 @@ Following is a list of participants in the **August 2nd** ScriptersCF Gamejam:
 - **Solo Pollo** (@nacereal#7088)
 - **Noonjo** (@Fanjo#3238, @R4GG3#4435)
 - **@everyone** (SingleSided#5858, xavier00hh#8942, FireExodus#0549, InedibleGames#8195)
+- **Fam squad** (@Firecow#0234, @YouFoundSeal#4777, @SimplyRekt#0021, @JackS#6638)
   
 
 ## Solo
@@ -28,4 +29,6 @@ Following is a list of participants in the **August 2nd** ScriptersCF Gamejam:
 - @Goulstem#1587
 - @crayzk#5617
 - @Judo Flip#3123
-- @SimplyRekt#0021
+- @Sendice#7978
+- @Moob#8010
+- @rithvik11_master#6051
