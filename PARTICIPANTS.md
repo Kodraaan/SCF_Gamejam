@@ -49,3 +49,4 @@ Following is a list of participants in the **August 2nd** ScriptersCF Gamejam:
 - @SimplyRekt#0021
 - @Swegification#5143
 - @CntKillMe#2648
+- @KHJGames#1006
