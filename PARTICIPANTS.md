@@ -7,7 +7,7 @@ Following is a list of participants in the **August 2nd** ScriptersCF Gamejam:
 - **GAY** (@sc#7508, @foreboded#1049, @Martini#0001, @-;Sin#1645)
 - **IDK** (@Friz#8136, @Harry#7307)
 - **ArtisticDevelopers** (@xDestino#4509, @Time#2388)
-- **Team 7** (Oryxide#6972)
+- **Team 7** (@Oryxide#6972, @NullLogic#8942)
 - **Transcendent** (@Eqic#0444, @ZCOLINZ#3604, Jacjac8#7550)
 - **Lonely** (@D15c4rd#7140)
 - **Solo Pollo** (@nacereal#7088)
@@ -41,4 +41,3 @@ Following is a list of participants in the **August 2nd** ScriptersCF Gamejam:
 - @Trey#3513
 - @Memeologist#5375
 - @TreBomb#7757
-- @NullLogic#8942
