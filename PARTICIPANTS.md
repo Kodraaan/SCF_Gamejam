@@ -18,6 +18,7 @@ Following is a list of participants in the **August 2nd** ScriptersCF Gamejam:
 - **Trellow** (@TreBomb#7757, @DeveloperLuke9593)
 - **crayziestQ** (@crayzk#5617, @Quinn#0530)
 - **/e tpose** (@Dr.Karma™#8747, @Golubian#4112, @meam#0767)
+- **Turd Bucket** (@etensai#2445, @Magura#1578, @Judo Flip#3123)
   
 
 
@@ -50,4 +51,3 @@ Following is a list of participants in the **August 2nd** ScriptersCF Gamejam:
 - @Swegification#5143
 - @CntKillMe#2648
 - @KHJGames#1006
-- @etensai#2445
